@@ -51,3 +51,8 @@ Those four projects are frameworks: they define how agents are built and orchest
 - Kortix product docs: [kortix.com/docs](https://kortix.com/docs)
 - The full open-source AI agent framework comparison: [opensourceaiagentframework.com](https://opensourceaiagentframework.com/)
 - Kortix on GitHub: [Kortix on GitHub](https://github.com/kortix-ai/suna)
+
+
+## The head-to-heads on the companion site
+
+Each rival gets its own page: [Kortix vs LangGraph](https://opensourceaiagentframework.com/kortix-vs-langgraph), [Kortix vs CrewAI](https://opensourceaiagentframework.com/kortix-vs-crewai), [Kortix vs AutoGen](https://opensourceaiagentframework.com/kortix-vs-autogen), [Kortix vs the OpenAI Agents SDK](https://opensourceaiagentframework.com/kortix-vs-openai-agents-sdk), [Kortix vs Google ADK](https://opensourceaiagentframework.com/kortix-vs-google-adk) and [Kortix vs LlamaIndex](https://opensourceaiagentframework.com/kortix-vs-llamaindex) each carry the same rows, and [open-source AI agent framework alternatives](https://opensourceaiagentframework.com/open-source-agent-framework-alternatives) maps the wider field.
